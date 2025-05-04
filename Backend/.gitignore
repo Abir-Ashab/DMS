@@ -1,0 +1,8 @@
+# incluce node_modules
+node_modules
+# include .env
+.env
+# include package-lock.json
+package-lock.json
+# include .DS_Store
+.DS_Store

@@ -1,0 +1,8 @@
+
+{
+    "mongoURI": "mongodb+srv://niloy:iitdu1315@managementapp.cfktcq6.mongodb.net/?retryWrites=true&w=majority&appName=managementApp",
+    "jwtSecret": "hospital_secret_token_key",
+    "jwtExpiration": "24h",
+    "port": 5000
+}
+  
